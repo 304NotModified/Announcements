@@ -7,7 +7,10 @@ This repo is for team **announcements** only. To file a **bug** or start a **dis
 
 Subscribe to this repo to be notified about major changes in ASP.NET Core and Entity Framework Core.
 
-![image](https://cloud.githubusercontent.com/assets/202643/7099148/d5b091f8-dfa1-11e4-8d13-c0195714f31e.png)
+![image](https://user-images.githubusercontent.com/5808377/124984464-8be91c80-e039-11eb-9e76-25061d8e3875.png)
+
+![image](https://user-images.githubusercontent.com/5808377/124984478-8ee40d00-e039-11eb-8f97-42d524956874.png)
+
 
 All items posted to this repo are locked, but should all have links to separate discussion threads in the affected repo. Please use those discussion threads for questions and comments about a particular announcement. If you're not sure where to post a question, please log an issue in the [Home repo](https://github.com/aspnet/Home/issues/).
 
